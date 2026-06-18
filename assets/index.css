@@ -79,10 +79,23 @@ background-color: #F25019;
 color: white;
 }
 
-.gol{
+.gol div{
 width: 72.67px;
 height: 35px;
 border-radius: 28.46px;
 background-color: white;
 
 }
+
+.gol{
+display: flex;
+justify-content: space-evenly;
+
+}
+
+.finish p{
+margin-left: 50px;
+
+}
+
+
